@@ -22,11 +22,11 @@ In the last years i have developed interests in microservices, system security, 
 ### Contact me
 
 <div>
-    <!--<div id="linkedin">
-        <a href="https://www.linkedin.com/">
+    <div id="linkedin">
+        <a href="https://www.linkedin.com/in/jos%C3%A9-gabriel-de-m-a-43a385214/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
-    </div>-->
+    </div>
     <div id="gmail">
         <a href="mailto:contato.zking+github-contact@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">

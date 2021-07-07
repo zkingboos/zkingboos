@@ -1,4 +1,5 @@
 # Hi there 👋
+![views]
 
 Welcome to my Github! I'm José Gabriel a 16 years old, programming enthusiast currently studying mechatronic with integrated high school I'm very focused and curious about how things work.
 
@@ -32,3 +33,5 @@ In the last years i have developed interests in microservices, system security, 
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </div>
 </div>
+    
+[views]: https://komarev.com/ghpvc/?username=zkingboos

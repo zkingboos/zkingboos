@@ -1,7 +1,7 @@
 # Hi there 👋
 ![views]
 
-Welcome to my Github! I'm José Gabriel a 16 years old, programming enthusiast currently studying mechatronic with integrated high school I'm very focused and curious about how things work.
+Welcome to my Github! I'm José Gabriel a 17 years old, programming enthusiast currently studying mechatronic with integrated high school I'm very focused and curious about how things work.
 
 ## Interest
 
